@@ -1,0 +1,11 @@
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/service/UserService.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/controller/UserController.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/repository/SupplementRepository.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/repository/crud/SupplementCrudRepository.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/controller/SupplementController.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/model/Supplement.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/model/User.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/HipercaloricoApplication.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/repository/UserRepository.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/repository/crud/UserCrudRepository.java
+/home/desarrolloextremo/NetBeansProjects/retodosold/hipercalorico/src/main/java/com/hiper/service/SupplementService.java

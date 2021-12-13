@@ -1,0 +1,11 @@
+com/hiper/repository/crud/SupplementCrudRepository.class
+com/hiper/repository/crud/UserCrudRepository.class
+com/hiper/controller/SupplementController.class
+com/hiper/service/SupplementService.class
+com/hiper/service/UserService.class
+com/hiper/HipercaloricoApplication.class
+com/hiper/repository/SupplementRepository.class
+com/hiper/repository/UserRepository.class
+com/hiper/model/Supplement.class
+com/hiper/model/User.class
+com/hiper/controller/UserController.class
